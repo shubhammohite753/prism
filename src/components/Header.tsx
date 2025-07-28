@@ -31,7 +31,7 @@ export default function Header() {
           <DownloadCloudIcon className="w-4 h-4" />
           <span className="hidden sm:inline">Export report</span>
         </Button>
-        <Button className="text-white flex items-center gap-2 hover:bg-purple-700 cursor-pointer">
+        <Button className="text-white flex items-center gap-2 hover:bg-purple-700 cursor-pointer bg-[#7F56D9]">
           <PlusIcon className="w-4 h-4" />
           <span className="hidden sm:inline">Invite</span>
         </Button>
